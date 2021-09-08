@@ -1,6 +1,3 @@
-# jrm-compensados
-App developed with Typescript, Nextjs and Firebase to manage the company JRM Compensados. Ps: There's no code here, only a video demonstration.
-
 # JRM Compensados
 
 App developed with Typescript, Nextjs and Firebase to manage the company JRM Compensados.  It's the second edition of the app that I developed to manage our company sector. The idea was to create a way to make easier the communication between production and sellers.

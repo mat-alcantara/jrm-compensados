@@ -7,7 +7,7 @@ App developed with Typescript, Nextjs and Firebase to manage the company JRM Com
 
 ## 👨🏻‍💻 Live Preview
 
-- [Live Preview](https://jrm-app-live-preview.vercel.app/)
+[Live Preview](https://jrm-app-live-preview.vercel.app/)
 
 username: teste@teste.com
 

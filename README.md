@@ -6,6 +6,17 @@
 
 App developed with Typescript, Nextjs and Firebase to manage the company JRM Compensados. It's the second edition of the app that I developed to manage our company sector. The idea was to create a way to make easier the communication between production and sellers.
 
+## Built With
+
+- Typescript
+- Nextjs
+- Firebase
+- Chakra UI
+- React Hook Form
+- Jest
+- React Query
+- React to Print
+
 ## Live Preview
 
 [Live Preview](https://jrm-app-live-preview.vercel.app/)
